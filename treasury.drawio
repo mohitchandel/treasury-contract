@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-07-14T05:27:44.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CMRjAkV1lbIhsVBnFs1I" version="21.6.2" type="device">
+  <diagram name="Page-1" id="SRpcXMT5rvr7YHXRvadQ">
+    <mxGraphModel dx="1368" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gp8dr9uev2SpUp37nzBt-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gp8dr9uev2SpUp37nzBt-2" target="gp8dr9uev2SpUp37nzBt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-2" value="Owner" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-3" value="Treasury" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gp8dr9uev2SpUp37nzBt-3" target="gp8dr9uev2SpUp37nzBt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-5" value="USDC Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gp8dr9uev2SpUp37nzBt-5" target="gp8dr9uev2SpUp37nzBt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-7" value="Uniswap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gp8dr9uev2SpUp37nzBt-7" target="gp8dr9uev2SpUp37nzBt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-9" value="USDT Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gp8dr9uev2SpUp37nzBt-7" target="gp8dr9uev2SpUp37nzBt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gp8dr9uev2SpUp37nzBt-11" value="DAI Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
