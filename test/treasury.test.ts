@@ -86,7 +86,6 @@ describe("Treasury", () => {
   it("should calculate the aggregated yield", async () => {
     // Calculate and assert the aggregated yield
     const aggregatedYield = await treasury.getAggregatedYield();
-
     console.log("Aggregated yield:", aggregatedYield);
   });
 });
